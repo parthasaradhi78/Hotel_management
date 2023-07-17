@@ -1,0 +1,47 @@
+1. open a web page
+2.navigate to another webpage
+3.navigate to another page(filled with contents)
+4.food (using frames)
+5.drinks(using frames)
+6.booking page
+7.hotel menu page
+8.rooms
+(suprematic classic room
+deluxe canal
+grand deluxe 
+2bh
+1bh
+)
+9.location
+10.single,deluxe , presedential suites.
+ socially
+people                           government
+1.name                          1.mr----------------
+2.aadhaar number                2. chief-----------------
+3.mobile number                 3.date on booking
+4.adults                        4.how many days to stay
+5.kids                          5.mobilenumber
+6.place                         6.room type
+7.purpose to visit              7.submit
+8.gmailaddress
+9.hotel related matter
+10.family related
+11.how many days want to stay
+12.room prices.
+
+
+tables
+1.people:                              2.government
+*si.no                                  1.si.no
+*name					          2.name
+*mobilenumber                           3.rooom type
+*room no	                            4.room no		
+*place                                  5.how many days to stay
+*purpose to visit                       6.gender
+*how many days to stay                  
+*gender
+*married/unmarried
+*how many members are staying
+                       
+
+                           submits
